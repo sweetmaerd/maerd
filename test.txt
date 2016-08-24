@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is master push
+=======
+Добавление новой ветки User1
+>>>>>>> User1

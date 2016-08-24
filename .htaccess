@@ -1,3 +1,7 @@
 RewriteEngine On
 RewriteRule ^(.*)$ public/$1 [L]
+
 master
+=======
+User 1
+
