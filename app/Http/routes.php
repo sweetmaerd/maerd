@@ -15,7 +15,7 @@
 	echo 'user '.$id;
 })->where('id', '[0-9]+');*/
 
-Route::controller('/test/{id?}', 'TestController@getProfile');
+//Route::controller('/test/{id?}', 'TestController@getProfile');
 
 //Route::controllers(['test'=>'TestController@getProfile',
 					//'name'=>'NameController',
